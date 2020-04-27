@@ -1,6 +1,6 @@
 {
     "logger": "[Bulk Bot] ",
-    "admin_role": "<ADMIN-ROLENAME-HERE>"
+    "admin_role": "<ADMIN-ROLENAME-HERE>",
     "logo": "<LOGO-URL-HERE>",
     "activity": "sending messages!",
     "version": "1.0.0",
