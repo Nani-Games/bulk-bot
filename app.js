@@ -10,7 +10,7 @@ client.on('ready', () => {
     client.user.setActivity(config.activity);
     client.guilds.get(config.guild).members.get(config.id).setNickname("Bulk Bot");
     console.log(config.logger + `Bot started successfully: ${client.user.tag}!`);
-    console.log(config.logger + "Version " + config.version + " (by " + config.author + ")");
+    console.log(config.logger + "Version ${config.version} by ${config.author})");
 });
 
 client.on("error", (e) => console.error(config.prefix + e));
@@ -34,7 +34,7 @@ client.on('message', message => {
                     description: text,
                     timestamp: new Date(),
                     footer: {
-                    text: "Bulk Bot ⚡ by Nani-Games"
+                    text: "Nani-Games on GitHub"
                     }
                 }});
             }
