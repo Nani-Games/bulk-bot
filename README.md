@@ -8,7 +8,7 @@ Please use the bot only within a reasonable scope. Harassing content or other un
 
 ## Installation
 
-Create a folder named ``bulkbot`` (you can name it as you want) and upload the files into this folder. Make sure that the file permissions are correct (permissions to be executable, and so on...). If you don't know how to do that, [click here](https://askubuntu.com/questions/229589/how-to-make-a-file-e-g-a-sh-script-executable-so-it-can-be-run-from-a-termi). Make sure that you are in the project folder (``cd /bulkbot``) before you execute further commands.
+Create a folder named ``bulkbot`` (you can name it as you want) and upload the files into this folder. Make sure that the file permissions are correct (permissions to be executable, and so on...). If you don't know how to do that, [click here](https://askubuntu.com/questions/229589/how-to-make-a-file-e-g-a-sh-script-executable-so-it-can-be-run-from-a-termi). Make sure that you are in the project folder (``cd bulkbot``) before you execute further commands.
 
 Use the package manager [npm](https://docs.npmjs.com/cli/install) to install discordjs (11.6.3):
 
