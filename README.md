@@ -54,6 +54,17 @@ To configure the bot, you have to replace the placeholders with your information
 
 ``<YOUR-HOMEPAGE-URL-HERE>`` (OPTIONAL): Here you can paste your own website. This will be a hyperlink in the dm messages.
 
+## Usage
+
+Go on your discord server, make sure you have the admin role you defined in the config file and type:
+```
+!bulk <your-message>
+```
+For Example:
+```
+!bulk Hey everybody! Welcome to my new cool server!
+```
+
 ## Starting the bot
 
 ```bash
