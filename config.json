@@ -1,0 +1,15 @@
+{
+    "logger": "[Bulk Bot] ",
+    "admin_role": "<ADMIN-ROLENAME-HERE>"
+    "logo": "<LOGO-URL-HERE>",
+    "activity": "sending messages!",
+    "version": "1.0.0",
+    "author": "Ceytec",
+    "prefix": "!",
+    "token": "<BOT-TOKEN-HERE>",
+    "invite": "https://discordapp.com/oauth2/authorize?client_id=<BOT-ID-HERE>&permissions=8&scope=bot",
+    "guild": "<YOUR-GUILD-ID-HERE>",
+    "servername": "<YOUR-GUILD-NAME-HERE>",
+    "url": "<YOUR-HOMEPAGE-URL-HERE>",
+    "id": "<BOT-ID-HERE>"
+}
