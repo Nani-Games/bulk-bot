@@ -54,6 +54,24 @@ To configure the bot, you have to replace the placeholders with your information
 
 ``<YOUR-HOMEPAGE-URL-HERE>`` (OPTIONAL): Here you can paste your own website. This will be a hyperlink in the dm messages.
 
+## Starting the bot
+
+```bash
+./start.sh
+```
+
+## Restarting the bot
+
+```bash
+./restart.sh
+```
+
+## Stopping the bot
+
+```bash
+./stop.sh
+```
+
 ## Contributing
 If you have any suggestions don't hestitate to send me them.
 
