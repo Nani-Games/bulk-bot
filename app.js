@@ -1,3 +1,11 @@
+/*
+
+Made by Nani-Games
+https://www.nani-games.net/
+Fork me on GitHub: https://github.com/Nani-Games
+
+*/
+
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const config = require("./config.json");
