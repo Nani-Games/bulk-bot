@@ -65,6 +65,11 @@ For Example:
 !bulk Hey everybody! Welcome to my new cool server!
 ```
 
+## Invitation
+
+To invite your bot to your own server, open ``config.json`` and copy the "invite" link (make sure, that you replaced the
+placeholder with your bot id!). Open the url and follow the steps. After that the bot should appear on your discord server. 
+
 ## Starting the bot
 
 ```bash
