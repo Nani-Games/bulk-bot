@@ -46,7 +46,7 @@ To configure the bot, you have to replace the placeholders with your information
 
 ``<BOT-TOKEN-HERE>``: This has to be the bot token. If you don't know what this is and how to get it, [click here](https://www.google.de/search?q=How+to+create+discord+bot+developer+portal&oq=How+to+create+discord+bot+developer+portal).
 
-``<BOT-TOKEN-ID>``: And here the bot id. (Attention: There are more than one placeholder for that!)
+``<BOT-ID-HERE>``: And here the bot id. (Attention: There are more than one placeholder for that!)
 
 ``<YOUR-GUILD-ID-HERE>``: Get [your guilds ID](https://support.discordapp.com/hc/de/articles/206346498-Wie-finde-ich-meine-Server-ID-) and paste it here.
 
