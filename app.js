@@ -1,3 +1,10 @@
+/*
+
+Made by Nani-Games
+https://www.nani-games.net/
+
+*/
+
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const config = require("./config.json");
@@ -10,7 +17,7 @@ client.on('ready', () => {
     client.user.setActivity(config.activity);
     client.guilds.get(config.guild).members.get(config.id).setNickname("Bulk Bot");
     console.log(config.logger + `Bot started successfully: ${client.user.tag}!`);
-    console.log(config.logger + "Version ${config.version} by ${config.author})");
+    console.log(config.logger + `Version ${config.version} by ${config.author}`);
 });
 
 client.on("error", (e) => console.error(config.prefix + e));
