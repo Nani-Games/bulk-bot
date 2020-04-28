@@ -2,7 +2,9 @@
 
 Made by Nani-Games
 https://www.nani-games.net/
-Fork me on GitHub: https://github.com/Nani-Games
+Fork me on GitHub:
+- https://github.com/Nani-Games
+- OR https://www.nani-games.net/github
 
 */
 
