@@ -2,6 +2,19 @@
 
 With this bot you can send bulk messages to every single user on your server.
 
+## Overview:
+
+- [Legality](https://github.com/Nani-Games/bulk-bot#legality)
+- [Installation](https://github.com/Nani-Games/bulk-bot#installation)
+- [Configuration](https://github.com/Nani-Games/bulk-bot#configuration)
+- [Usage](https://github.com/Nani-Games/bulk-bot#usage)
+- [Invitation](https://github.com/Nani-Games/bulk-bot#invitation)
+- [Starting the bot](https://github.com/Nani-Games/bulk-bot#starting-the-bot)
+- [Restarting the bot](https://github.com/Nani-Games/bulk-bot#restarting-the-bot)
+- [Stopping the bot](https://github.com/Nani-Games/bulk-bot#stopping-the-bot)
+- [Contributing](https://github.com/Nani-Games/bulk-bot#contributing)
+- [License](https://github.com/Nani-Games/bulk-bot#license)
+
 ## Legality
 
 Please use the bot only within a reasonable scope. Harassing content or other unacceptable content may not be sent to users on Discord, even with a bot. The use is therefore at your own risk.
